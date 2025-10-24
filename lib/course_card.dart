@@ -16,7 +16,7 @@ class CourseCard extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.only(top: 10 , left: 10 , right: 10),
             child: SizedBox(
-              height: 70,
+              height: 85,
               child: Text(
                 '${courseDetails['title']}',
                 textAlign: TextAlign.left,
