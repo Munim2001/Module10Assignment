@@ -15,8 +15,8 @@ class Homepage extends StatelessWidget {
           itemCount: AssetInfo.assetInfo.length,
           gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: 2,
-            crossAxisSpacing: 15,
-            mainAxisSpacing: 15,
+            crossAxisSpacing: 2.5,
+            mainAxisSpacing: 5,
             childAspectRatio: 0.60,
           ),
           itemBuilder: (context, index) {

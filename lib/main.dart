@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:ostad_assignment2/asset_info.dart';
-import 'package:ostad_assignment2/course_card.dart';
 import 'package:ostad_assignment2/home_page.dart';
 
 void main() {
